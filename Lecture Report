@@ -1,0 +1,18 @@
+Report for lecture
+
+Collin shared his journey with Git, and for me, as a new student, understanding Git’s basics—how it helps manage code and enables collaboration—was enlightening. Git’s primary commands, like git push and git pull, stood out as essential for keeping work synchronized between the local and remote repositories.
+  
+One of the most helpful parts of the lecture was learning how to use git push and git pull. 
+Git Push: This command sends local changes to the remote repository. Collin explained that after making edits to files, you can push these changes so they’re available to team members or stored on GitHub. I found it fascinating that Git allows control over what gets saved. You can prepare only specific changes, which adds control and flexibility.
+Git Pull: The git pull command is used to bring the latest updates from the remote repository to the local one. Collin demonstrated that this command ensures everyone works with the most recent version of the project, reducing conflicts.
+
+I remember that we also covered the staging area, which sits between the working directory (where edits happen) and the repository (where changes are permanently saved). Collin explained that files need to be added to the staging area before committing. This part was a bit tricky initially, but I understood it better with practice. The staging area lets you group changes logically, so you can manage each part of the code independently.
+
+Besides these information, Collin talkd us through several other commands like
+Git Status: This command shows the current state of the repository. It highlights modified files, files in the staging area, and those ready to be committed. The information from git status is essential, as it gives a clear picture of the current progress before moving forward.
+Git Add: The command git add moves changes from the working directory to the staging area. This step makes sure you’re intentionally selecting which files to prepare for commit.
+Git Commit: Once changes are added to the staging area, git commit saves them permanently in the local repository. Each commit can include a message describing the changes, which is useful for tracking the development process.
+
+For me, this lecture brought practical insights into using Git commands that initially seemed confusing. Collin’s approach made the push and pull commands much clearer, showing how they keep the code synchronized between local and remote repositories. Understanding the staging area also changed how I see code management; it feels like an organized way to keep track of changes before making them permanent.
+Working with Git now seems less intimidating, and I’m excited to use it more in future projects. Having learned the basics, I can see how useful Git is for organizing and experimenting with code, especially in a team setting. This lecture made me realize the importance of regularly using git status to avoid surprises, and I appreciated the idea of adding only specific changes to the staging area for flexibility.
+
